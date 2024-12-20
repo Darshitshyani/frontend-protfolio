@@ -1,0 +1,133 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Darshit Shyani. I am a passionate and dedicated Frontend Developer with 3 years of professional experience in designing and developing user-friendly, responsive, and visually appealing web applications. My expertise includes working with HTML, CSS, JavaScript, and modern frameworks like React.js and Next.js.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Animal Food Shop",
+        "startDate": "2022",
+        "description": "In this project, my role as a Frontend Developer involved designing and implementing user-friendly interfaces to ensure a seamless user experience. I handled the frontend logic, including state management, API integration, and dynamic rendering of components. My focus was on optimizing performance and maintaining responsive, visually appealing layouts across all devices.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpeg",
+          "images/portfolio/animal-shelter/p2.jpeg",
+           "images/portfolio/animal-shelter/p3.jpeg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "TailwindCSS"
+          }
+        ]
+      },
+      {
+        "title": "Hotel Booking Site",
+        "startDate": "2023",
+        "description": "In this project, as a Frontend Developer, I utilized React, Tailwind CSS, React-Hook-Form, and Redux to build a dynamic and responsive user interface. My responsibilities included implementing frontend logic, managing state efficiently with Redux, and ensuring seamless form handling with React-Hook-Form. I focused on delivering a visually appealing, performant, and user-friendly experience.",
+        "images": [
+          "images/portfolio/photography/hotel1.jpeg",
+          "images/portfolio/photography/hotel2.jpeg",
+          "images/portfolio/photography/hotel3.jpeg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
+        "title": "VIZU admin-panel",
+        "startDate": "2024",
+        "description": "The application leverages a powerful and modern technology stack, including Next.js, TypeScript, Material-UI, Tailwind CSS, Supabase, Redux Toolkit (Redux-Slice), Context API, and custom hooks.The Vizu Admin Panel is a powerful management tool designed to streamline administrative tasks and efficiently manage various aspects of an application. Built with Supabase for secure authentication, it ensures a safe environment for administrative operations. The panel enables administrators to seamlessly create, update, and delete categories and fields, simplifying application management.",
+        "images": [
+          "images/portfolio/adventure/admin1.jpeg",
+          "images/portfolio/adventure/admin2.jpeg",
+          "images/portfolio/adventure/admin3.jpeg",
+          "images/portfolio/adventure/admin4.jpeg",
+          "images/portfolio/adventure/admin5.jpeg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "Next.js"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "TailwindCSS"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Avrut Solutions",
+        "title": "Front-End Developer",
+        "years": "01.2022 - 08.2024",
+        "mainTech": [
+          "REACT JS"
+        ],
+        "technologies": [
+          "REACT JS",
+          "NEXT JS",
+          "TYPE SCRIPT",
+          "TAILWIND CSS",
+          "FIREBASE",
+          "REDUX",
+          "SERVER SIDE RENDERING",
+          "AXIOS",
+          "REST API"
+          
+        ]
+      },
+      {
+        "company": "Avrut Solutions",
+        "title": "Intern",
+        "years": "01.2022 - 06.2022",
+        "mainTech": [
+          "react"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JAVA SCRIPT",
+          "REACT",
+          "BOOTSTRAP",
+          "REDUX"
+        ]
+      }
+    ]
+  }
